@@ -277,5 +277,11 @@
   "Convergence": 0,
   "LoyaltyLevel": 0,
   "Price": 0
+},
+"664f89b93dbe2f0a220426f8": {
+  "ItemID": "664f89b93dbe2f0a220426f8",
+  "Name": "hksturmgriff_black",
+  "TemplateID": "619386379fb0c665d5490dbe",
+  "TemplateType": "mod"
 }
 }
